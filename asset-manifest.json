@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pivonetuz.github.io/csb-3egyn/static/css/main.e5662dbf.chunk.css",
+    "main.js": "https://pivonetuz.github.io/csb-3egyn/static/js/main.5c00cddb.chunk.js",
+    "main.js.map": "https://pivonetuz.github.io/csb-3egyn/static/js/main.5c00cddb.chunk.js.map",
+    "runtime-main.js": "https://pivonetuz.github.io/csb-3egyn/static/js/runtime-main.a20a0f32.js",
+    "runtime-main.js.map": "https://pivonetuz.github.io/csb-3egyn/static/js/runtime-main.a20a0f32.js.map",
+    "static/js/2.ea6fd52b.chunk.js": "https://pivonetuz.github.io/csb-3egyn/static/js/2.ea6fd52b.chunk.js",
+    "static/js/2.ea6fd52b.chunk.js.map": "https://pivonetuz.github.io/csb-3egyn/static/js/2.ea6fd52b.chunk.js.map",
+    "index.html": "https://pivonetuz.github.io/csb-3egyn/index.html",
+    "static/css/main.e5662dbf.chunk.css.map": "https://pivonetuz.github.io/csb-3egyn/static/css/main.e5662dbf.chunk.css.map",
+    "static/js/2.ea6fd52b.chunk.js.LICENSE.txt": "https://pivonetuz.github.io/csb-3egyn/static/js/2.ea6fd52b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a20a0f32.js",
+    "static/js/2.ea6fd52b.chunk.js",
+    "static/css/main.e5662dbf.chunk.css",
+    "static/js/main.5c00cddb.chunk.js"
+  ]
+}
